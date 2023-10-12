@@ -1,0 +1,9 @@
+const CONST = {
+  APP_TITLE: "Stephens Tools",
+  FULL_INCHES_WIDTH: 6.5,
+  FULL_INCHES_HEIGTH: 3.6,
+  SMALL_INCHES_WIDTH: 3.2,
+  SMALL_INCHES_HEIGTH: 1.8,
+};
+
+export default CONST;
